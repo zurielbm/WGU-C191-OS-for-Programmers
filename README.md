@@ -1,5 +1,8 @@
 # C191 WGU Study Plan
 
+# Tool
+this system is mainly made to be used in obsidian
+
 ## File/Folder Structure
 Content is divided into Modules and using the [Johnny Decimal][https://johnnydecimal.com] folder system
 
