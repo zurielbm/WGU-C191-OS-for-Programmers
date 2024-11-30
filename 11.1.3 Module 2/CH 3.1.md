@@ -6,6 +6,9 @@ tags:
 Last Updated on [[2024-11-29]]
 
 
+![[C191 Ch 3 Section 1.wav]]
+
+# Terms
 
 A process → an instance of a program being executed by an OS.
 
