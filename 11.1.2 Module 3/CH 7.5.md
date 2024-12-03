@@ -7,6 +7,17 @@ Updated [[2024-11-27]]
 
 ![[C191 Ch 7 Section 5.wav]]
 
+1. Apartment Building Analogy
+
+	Imagine an apartment building representing the computer's physical memory.
+	
+	**Segment:** Each apartment in the building is like a segment, representing a distinct, variable-sized block of memory. Apartments can have different sizes and layouts (similar to segments having different sizes).
+	
+	**Process:**  Each resident of the apartment building is like a process, occupying one or more apartments (segments).
+	
+	**Segment Table:** The building directory acts as the segment table, mapping each resident (process) to their specific apartments (segments). It indicates which apartment (segment) each resident (process) is assigned to and its location within the building (memory).
+
+Each resident (process) has access only to their assigned apartment(s) (segment(s)) and cannot access other apartments (segments) without permission
 ## Terms
 
 A segment → a variable-size block of a logical address space identified by a single number, the segment number.

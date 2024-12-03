@@ -7,6 +7,8 @@ Updated [[2024-11-27]]
 
 ![[C191 Ch 7 Section 1.wav]]
 
+![[C191 ch 7.1 hand notes.pdf]]
+
 ## Terms
 
 physical memory (RAM) → a hardware structure consisting of a linear sequence of words that hold a program during execution. 
